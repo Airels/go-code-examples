@@ -15,6 +15,7 @@ Go targeted originally core system components, then being used in all various do
 - *isPrimeNumber.go* : A function declaration who calculates if given number n is prime number or not (return boolean)
 - *findPrimeNumbers.go* : A program using concurrent functions to get prime numbers between two numbers. When function instance ends its calculations, will return a boolean in a [Go channel](https://tour.golang.org/concurrency/2)
 - *user.go* : An implementation of structures in Go
+- *net.go* : A TCP server who sends Hello World at connection and copy all received data into standard output.
 
 ## How to execute ? (minimal help)
 
